@@ -1,12 +1,6 @@
 # Testes Automatizados com Cypress - Avançado
 
-👋 Seja bem vindo(a)!
-
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
-
-## O que você vai aprender
-
-Durante o curso avançado de Cypress, você vai aprender:
+## Conhecimentos aplicados
 
 - Como criar testes 100% _flakiness-free_
 - Como interagir com a aplicação o mais próximo de como um usuário real faria
@@ -20,12 +14,6 @@ Durante o curso avançado de Cypress, você vai aprender:
 - Como interceptar e mockar uma API externa para testar o frontend independente do backend
 - Como simular erros no servidor e na rede
 - Como simular lentidão na chamada à uma API
-- Como modificar o relatório de testes padrão para um que combine com o seu estilo 😉
-
-## Vamos começar?
-
-Vá para a seção de [pré-requisitos](./lessons/0.md).
-
 ___
 
 Um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
