@@ -28,9 +28,9 @@
     "cypress.io",
     "testing"
   ],
-  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "author": "Renan Dias <renan7k@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/wlsf82/curso-cypress-avancado#readme",
+  "homepage": "https://github.com/renan7k/cypress-avancado-udemy",
   "devDependencies": {
     "cypress": "^6.6.0",
     "cypress-localstorage-commands": "^1.4.1",
